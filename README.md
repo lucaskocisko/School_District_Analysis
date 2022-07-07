@@ -11,6 +11,15 @@ After review there is an anomally within a certain grade level at a single high 
 results, I can see where the data was skewed.
 
 # Results 
+metrics affected:
+- district summary
+- per school summary
+- math scores
+- reading scores
+- school spending
+- school size
+- school type
+
 old district summary
 ![](https://github.com/lucaskocisko/School_District_Analysis/blob/main/pics/old_district_summary.png)
 new district summary
