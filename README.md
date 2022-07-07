@@ -11,17 +11,19 @@ After review there is an anomally within a certain grade level at a single high 
 results, I can see where the data was skewed.
 
 # Results 
-
-![](https://github.com/lucaskocisko/School_District_Analysis/blob/main/pics/old_district_summary.png)/
-
-![](https://github.com/lucaskocisko/School_District_Analysis/blob/main/pics/new_disctrict_summary.png)/
+old district summary
+![](https://github.com/lucaskocisko/School_District_Analysis/blob/main/pics/old_district_summary.png)
+new district summary
+![](https://github.com/lucaskocisko/School_District_Analysis/blob/main/pics/new_disctrict_summary.png)
 
 ?How is the district summary affected?
 - The overall passing percentage decreased by ~.25% 
 - both math and reading scores decreased by .25% as well
 
-![](https://github.com/lucaskocisko/School_District_Analysis/blob/main/pics/old_per_school_summary.png)/
-![](https://github.com/lucaskocisko/School_District_Analysis/blob/main/pics/new_per_school_summary.png)/
+old per school summary
+![](https://github.com/lucaskocisko/School_District_Analysis/blob/main/pics/old_per_school_summary.png)
+new per school summary
+![](https://github.com/lucaskocisko/School_District_Analysis/blob/main/pics/new_per_school_summary.png)
 
 ?How is the school summary afffected?
 - Thomas High School's overall passing percentage decreased by ~33%
@@ -31,30 +33,30 @@ Thomas High School remains at 2nd place when the district is ranked by overall p
 
 ?How does replacing the ninth-grade scores affect the following?:
 
-math scores
-![](https://github.com/lucaskocisko/School_District_Analysis/blob/main/pics/old_math.png)/
+old math
+![](https://github.com/lucaskocisko/School_District_Analysis/blob/main/pics/old_math.png)
+new math
+![](https://github.com/lucaskocisko/School_District_Analysis/blob/main/pics/new_math.png)
 
-![](https://github.com/lucaskocisko/School_District_Analysis/blob/main/pics/new_math.png)/
+old reading
+![](https://github.com/lucaskocisko/School_District_Analysis/blob/main/pics/old_reading.png)
+new reading
+![](https://github.com/lucaskocisko/School_District_Analysis/blob/main/pics/new_reading.png)
 
-reading
-![](https://github.com/lucaskocisko/School_District_Analysis/blob/main/pics/old_reading.png)/
+old scores by school spending
+![](https://github.com/lucaskocisko/School_District_Analysis/blob/main/pics/old_scores_by_spending.png)
+new scores by school spending
+![](https://github.com/lucaskocisko/School_District_Analysis/blob/main/pics/new_scores_by_spending.png)
 
-![](https://github.com/lucaskocisko/School_District_Analysis/blob/main/pics/new_reading.png)/
+old scores by school size
+![](https://github.com/lucaskocisko/School_District_Analysis/blob/main/pics/old_school_size.png)
+new scores by school size
+![](https://github.com/lucaskocisko/School_District_Analysis/blob/main/pics/new_school_size.png)
 
-Scores by school spending
-![](https://github.com/lucaskocisko/School_District_Analysis/blob/main/pics/old_scores_by_spending.png)/
-
-![](https://github.com/lucaskocisko/School_District_Analysis/blob/main/pics/new_scores_by_spending.png)/
-
-Scores by school size
-![](https://github.com/lucaskocisko/School_District_Analysis/blob/main/pics/old_school_size.png)/
-
-![](https://github.com/lucaskocisko/School_District_Analysis/blob/main/pics/new_school_size.png)/
-
-Scores by school type
-![](https://github.com/lucaskocisko/School_District_Analysis/blob/main/pics/old_school_type.png)/
-
-![](https://github.com/lucaskocisko/School_District_Analysis/blob/main/pics/new_school_type.png)/
+old scores by school type
+![](https://github.com/lucaskocisko/School_District_Analysis/blob/main/pics/old_school_type.png)
+new scores by school type
+![](https://github.com/lucaskocisko/School_District_Analysis/blob/main/pics/new_school_type.png)
 
 # Summary
 - District Analysis - the altered numbers slightly increased Thomas High school's 9th grade reading and math scores.
