@@ -12,7 +12,7 @@ results, I can see where the data was skewed.
 
 # Results 
 
-old district_summary img
+![] (https://github.com/lucaskocisko/School_District_Analysis/blob/main/pics/old_district_summary.png)
 new district_summary img
 
 ?How is the district summary affected?
